@@ -108,19 +108,20 @@ AutoEmailGrabber performs a multi-phase reconnaissance scan:
 
 ### The 10-Second Guide
 
-```bash
+```
 # 1. Download the script
-wget https://raw.githubusercontent.com/YOUR_USERNAME/AutoEmailGrabber/main/auto_email_grabber.py
+wget https://raw.githubusercontent.com/BlueDev1222/Email-Grabber/main/auto_email_grabber.py
 
 # 2. Run it
 python auto_email_grabber.py
 OR just double-click the file.
 
 That's it. The script handles everything else.
+```
 
 📦 Installation
 Option 1: Clone the Repository
-bash
+
 
 
 
@@ -128,7 +129,7 @@ git clone https://github.com/YOUR_USERNAME/AutoEmailGrabber.git
 cd AutoEmailGrabber
 python auto_email_grabber.py
 Option 2: Download the Single File
-bash
+
 
 
 
@@ -139,7 +140,6 @@ Save auto_email_grabber.py to your desktop
 Double-click it
 Watch it work
 🎮 Usage
-bash
 
 
 
@@ -271,6 +271,7 @@ Future planned features:
  Shodan/Hunter.io API Support — Optional paid API integrations
  Docker Support — Containerized deployment
  Web UI — Simple local web interface for results
+ 
 ❓ FAQ
 Is this legal?
 This tool is designed for authorized penetration testing only. You must have explicit permission before scanning any target. See the Legal & Ethics section.
