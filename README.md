@@ -10,8 +10,8 @@ markdown
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-2.1.0-orange.svg)](https://github.com/YOUR_USERNAME/AutoEmailGrabber/releases)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/YOUR_USERNAME/AutoEmailGrabber/pulls)
+[![Version](https://img.shields.io/badge/Version-2.1.0-orange.svg)](https://github.com/BlueDev1222/Email-Grabber/releases)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/BlueDev1222/Email-Grabber/pulls)
 
 
 
