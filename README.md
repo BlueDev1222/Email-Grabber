@@ -1,7 +1,3 @@
-markdown
-
-
-
 <div align="center">
 
 # 🕵️ AutoEmailGrabber
