@@ -326,4 +326,4 @@ Keep it simple — zero configuration philosophy
 Maintain Python 3.7+ compatibility
 Add comments for all major functions
 Update the version number in the script
-Test on all platforms if possible
+Test on all platforms if possible!
